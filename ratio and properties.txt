@@ -1,0 +1,5 @@
+1. x^2 - 2kx + k^2 = 0 and x^2 - 4kx + 4k^2 = 0
+2. No, (2,3) is not a solution to the equation 2x + 3y = 12.
+3. The possible coordinates (x, y) are any points on the line y = x.
+4. The possible values of a and b are a can take any real value and b = 0.
+5. The area of the triangle formed by the lines y = x, y-axis, and y = 3 is 4.5 square units.
